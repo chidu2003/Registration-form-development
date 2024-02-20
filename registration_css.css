@@ -72,7 +72,6 @@ button:hover {
     margin-top: 5px;
 }
 
-/* Prevent background color change when displaying error message */
 .error-message + input[type="password"] {
     border-color: #dc3545;
 }
